@@ -2,6 +2,7 @@
 - Data Analytics Professional
 - Proficient in SQL, Tableau, Excel, R
 - Tableau Projects: https://public.tableau.com/app/profile/jay.casey
+- Portfolio Website: https://jaycaseyanalyst.github.io/JayCasey.github.io/
 - Business Inquiries: Jay.W.Casey@Gmail.com 
 
 <!---
