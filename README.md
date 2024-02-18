@@ -1,6 +1,7 @@
 - Hi, I'm Jay Casey
-- Data Analytics Professional
+- Data Science Professional
 - Proficient in SQL, Tableau, Excel, R
+- Developing Python, Pandas
 - Tableau Projects: https://public.tableau.com/app/profile/jay.casey
 - Portfolio Website: https://jaycaseyanalyst.github.io/JayCasey.github.io/
 - Business Inquiries: Jay.W.Casey@Gmail.com 
