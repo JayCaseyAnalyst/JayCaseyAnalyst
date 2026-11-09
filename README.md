@@ -24,9 +24,9 @@
 **[Geospatial NoSQL Architecture](https://github.com/RIT-iSchool/mongodb-project-the-park-rangers):** Designing unstructured data infrastructures for national trail systems.
 
 ### 🎓 Education & Honors
-**MS Data Science:** Rochester Institute of Technology (Expected 2026).
+**MS Data Science:** Rochester Institute of Technology 2026.
 
-**BS Applied Mathematics:** SUNY Fredonia (Cum Laude).
+**BS Applied Mathematics:** SUNY Fredonia 2023.
 **Award:** Nancy Boynton's ASA Award for Statistical Excellence.
 
 ---
